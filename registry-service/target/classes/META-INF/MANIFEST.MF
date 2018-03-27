@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: registry-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: aamzerin
+Implementation-Vendor-Id: io.aamzerin.microservices.start
+Build-Jdk: 1.8.0_92
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/micro-arch-infrastructure/registry-service
+Created-By: Maven Integration for Eclipse
+

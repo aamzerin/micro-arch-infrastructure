@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: gateway-service
+  profiles:
+    active:
+    - localzone
+      
+server:
+  port: 8000
